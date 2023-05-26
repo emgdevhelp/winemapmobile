@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/winemapmobile/static/css/main.128389e4.css",
+    "main.js": "/winemapmobile/static/js/main.82170772.js",
+    "static/media/NoahText-Black.ttf": "/winemapmobile/static/media/NoahText-Black.e0c115ddc36d357b0455.ttf",
+    "static/media/NoahText-Regular.ttf": "/winemapmobile/static/media/NoahText-Regular.6db15338bb5160486771.ttf",
+    "index.html": "/winemapmobile/index.html",
+    "main.128389e4.css.map": "/winemapmobile/static/css/main.128389e4.css.map",
+    "main.82170772.js.map": "/winemapmobile/static/js/main.82170772.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.128389e4.css",
+    "static/js/main.82170772.js"
+  ]
+}
